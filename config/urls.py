@@ -8,7 +8,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="APIs",
       default_version='v1',
-      description="Pulling results from openAI, this  endoints are designed to serve as a digital steward for families \
+      description="Pulling results from open AI, this endpoints are designed to serve as a digital steward for anyone/families  \
                 seeking to nurture their faith and strengthen family bonds through daily devotions\
                  and guidance. It aims to provide a foundation of spiritual growth, moral integrity, and generational\
                 blessings, inspired by the teachings found throughout the Bible",
