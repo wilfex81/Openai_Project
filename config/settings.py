@@ -27,9 +27,9 @@ OPENAI_API_KEY =  config('OPENAI_KEY', '')
 SECRET_KEY = 'django-insecure-!y8+ucxn3vj3w#lorkc!fbuqq^!313a_ffp6(ai3d2$2(h1)+q'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['openai-project-v9ak.onrender.com']
 
 
 # Application definition
